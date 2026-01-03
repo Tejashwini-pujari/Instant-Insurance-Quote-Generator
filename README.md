@@ -18,11 +18,6 @@
 - Machine Learning (Classification)  
 - LLM-style Prompt Engineering  
 
----
-
-## 📂 Project Structure
-
----
 
 ## 🔄 Workflow
 1. Load historical insurance data  
